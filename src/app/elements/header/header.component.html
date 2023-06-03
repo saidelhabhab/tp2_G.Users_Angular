@@ -1,0 +1,34 @@
+<nav class="navbar navbar-expand navbar-dark bg-dark px-2">
+    <div class="side-nav-button p-2 me-3 text-light" (click)="SideNavToggle()">
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </div>
+    <a href="" class="navbar-brand px-4 text-light"> TP:2 {{"Manager_Users" |translate}}</a>
+
+    <div class="navbar-collapse ">
+        <ul class="navbar-nav me-auto">
+            <li class="nav-item dropdown">
+                <a href="" class="nav-link dropdown-toggle text-light" role="button" 
+                 data-bs-toggle="dropdown">
+                    {{ "langauge" | translate}}
+                </a>
+                <ul class="dropdown-menu dropdown-menu-dark">
+                    <li><button  (click)="changeCurrentLang('en')" class="dropdown-item  text-light"> EN</button></li>
+                    <li><button  (click)="changeCurrentLang('fr')" class="dropdown-item  text-light"> FR</button></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="profile-logo dropstart">
+        <button class="btn btn-outline-light dropdown-toggle" data-bs-toggle="dropdown">
+                ELHABHAB
+        </button>
+        <ul class="dropdown-menu dropdown-menu-dark">
+            <li><a href="" class="dropdown-item  text-light"> {{"Login" | translate}}</a></li>
+            <li><a href="" class="dropdown-item  text-light"> {{"Logout" | translate}}</a></li>
+        </ul>
+    </div>
+
+</nav>
+
+ 

@@ -1,0 +1,23 @@
+{
+    "Manager Users" : "Manager Users",
+    "Password" : "Password",
+    "Login" : "Login",
+    "Logout" : "Logout",
+    "Register" : "Register",
+    "Home" : "Home",
+    "Angular_Training" : "Angular_Training",
+    "welcome" : "welcome to Home",
+    "langauge" :"langauge",
+    "Id" : "Id", 
+    "Avatar" : "Avarar" ,
+    "LastName" : "Last Name" ,
+    "FirstName" : "First Name",
+    "Email" : "Email",
+    "Action" : "Action",
+    "Delete" : "Delete",
+    "Edit" : "Edit",
+    "Add" : "Add User",
+    "Update" : "Update",
+    "View" : "View"
+
+}

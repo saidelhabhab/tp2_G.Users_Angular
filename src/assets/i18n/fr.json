@@ -1,0 +1,25 @@
+{
+    "Manager_Users": "Gestionnaire d'utilisateurs",
+     "Password": "Mot de passe",
+     "Login": "Sign in",
+     "Logout": "Déconnexion",
+     "Register" : "S'inscrire",
+     "Home" : "Acceil",
+     "Angular_Training": "Formation_angulaire",
+     "welcome" : "Bienvenue sur page Acceil",
+     "langauge" :"langue",
+     "Id" : "Id", 
+     "Avatar" : "Image" ,
+     "LastName" : "Nom" ,
+     "FirstName" : "Prenom",
+     "Email" : "Email",
+     "Action" : "Action",
+     "Delete" : "Supprimer",
+     "Update" : "Modifier",
+     "Edit" : "Modifier",
+     "Add" : "Ajouter un utilisateur",
+     "List_Users" : "Liste des utilisateurs",
+     "List_Roles" : "Liste des rôles",
+     "List_Permissions" : "Liste des permissions"
+
+}
